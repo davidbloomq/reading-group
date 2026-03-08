@@ -33,7 +33,7 @@ Managed via Google Contacts label `future-of-humanity-reading-group` in `david.b
 ## File structure
 
 ```
-future-of-humanity-reading-group/
+reading-group/
 ├── CLAUDE.md              # Project instructions
 ├── syllabus.md            # Full 9-week syllabus with links
 ├── emails/                # Draft outreach emails
