@@ -36,8 +36,7 @@ Managed via Google Contacts label `future-of-humanity-reading-group` in `david.b
 reading-group/
 ├── CLAUDE.md              # Project instructions
 ├── syllabus.md            # Full 9-week syllabus with links
-├── emails/                # Draft outreach emails
-├── readings/              # Reading materials
+├── meetings/              # Meeting logistics and notes
 └── website/               # GitHub Pages site
     ├── index.html         # Home/landing page
     ├── meeting.html       # Upcoming meeting details
